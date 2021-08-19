@@ -7,7 +7,7 @@ extras["dev"] = ["black>=21.4b0", "isort>=5.5.4", "flake8>=3.8.3", "pytest>=6.2.
 
 setup(
     name="mariantranslate",
-    version="0.1.0",
+    version="0.1.8",
     author="Galuh Sahid",
     author_email="galuh.sahid@protonmail.com",
     description="Simple translator using Marian NMT.",
